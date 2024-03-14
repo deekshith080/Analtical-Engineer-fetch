@@ -1,0 +1,39 @@
+Subject: Action Plan for Data Quality Improvement and Optimization
+
+Dear Product or business leader,
+
+I hope this message finds you well.
+
+As we dive deeper into analyzing our dataset, it's crucial to address any data quality issues and optimize our data assets for maximum efficiency and performance. Based on our discussions, I've outlined our approach to resolving these issues and enhancing our data infrastructure.
+
+Questions about the Data:
+
+What questions do you have about the data?
+Ans : 1. Is the data related to a departmental Store or an e-commerce platform ?
+      2. Need to know the mandatory/necessary information/fields.
+
+How did you discover the data quality issues?
+Ans: By Analyzing the json data.
+
+What do you need to know to resolve the data quality issues?
+Ans: We need to know the data formats for different columns, mandatory column values, relationships, further uses and applications of the data. 
+
+What other information would you need to help you optimize the data assets you're trying to create?
+Ans: potential uses and application of the data. scalability, performance and usability considerations.
+
+What performance and scaling concerns do you anticipate in production and how do you plan to address them?
+Ans: highly available, performant, scalable, fault tolerant, and should have the capability to recover from a disaster scenario. 
+availability of the data: should be accessible round the clock with minimal down time.
+quick access time/performance.
+
+We can achieve the above criteria's by using 
+1. Database Read Replicas
+2. Vertical/Horizontal Scaling
+3. Database Caching 
+4. Database Sharding
+5. Microservice Architecture.
+
+Looking forward to discussing these initiatives further.
+
+Best regards,
+Deekshith Reddy Chagamreddy
